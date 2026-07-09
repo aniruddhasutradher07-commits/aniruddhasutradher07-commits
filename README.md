@@ -188,7 +188,7 @@ Web app featuring 200+ quotes across categories, with dark/light mode and share/
 ## 💼 Experience
 
 **Application Developer** · CodeAlpha
-`June 2026 – Present | Remote / Lucknow`
+`June 2026 – July | Remote / Lucknow`
 
 App Development Intern working on mobile application projects using Flutter, gaining hands-on experience in UI/UX design and application architecture.
 
@@ -200,7 +200,7 @@ App Development Intern working on mobile application projects using Flutter, gai
 <br/>
 
 **Python Developer Intern** · Codec Technologies India
-`June 2026 – Present | Hybrid / Mumbai`
+`June 2026 – July | Hybrid / Mumbai`
 
 Developing problem-solving, coding, and analytical skills through practical assignments and real-world projects.
 
@@ -302,7 +302,7 @@ exploring:
   - Scalable ML deployment patterns
 
 open_to:
-  - Internship & entry-level SDE / ML roles
+  - Internship
   - Collaborative open-source projects
 ```
 

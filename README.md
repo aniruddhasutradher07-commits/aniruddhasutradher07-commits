@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1026,35:4C1D95,65:6D28D9,100:2563EB&text=Aniruddha%20Sutradhar&fontColor=F8FAFC&fontSize=56&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Development&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,30:312E81,60:6D28D9,100:2563EB&text=Aniruddha%20Sutradhar&fontColor=F8FAFC&fontSize=62&fontAlignY=36&desc=B.Tech%20Biotechnology%20Student%20%7C%20Python%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=56&descSize=19&animation=fadeIn" />
+type=waving&height=280&color=0:0B1026,35:4C1D95,65:6D28D9,100:2563EB&text=Aniruddha%20Sutradhar&fontColor=F8FAFC&fontSize=56&fontAlignY=38&desc=B.Tech%20Biotechnology%20Student%20%7C%20Python%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Biotechnology+Undergraduate+building+AI-powered+software;Python+Developer+%7C+Application+Developer+%7C+ML+Engineer;Full+Stack+Builder+with+a+Product+Engineering+Mindset;Creating+scalable+solutions+for+Healthcare%2C+Biotech+and+Automation" />
 

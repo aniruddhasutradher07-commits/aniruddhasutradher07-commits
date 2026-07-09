@@ -415,26 +415,36 @@ Contributed to education, community development, and child welfare initiatives t
 <img src="https://img.shields.io/badge/DIAGEO-Summer%20Training%20Project-111827?style=for-the-badge&logo=files&logoColor=8B5CF6" />
 <img src="https://img.shields.io/badge/Tech%20Mindsparc-Webinar%20Participation-111827?style=for-the-badge&logo=googleclassroom&logoColor=60A5FA" />
 
-
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aniruddhasutradher07-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" />
+<img src="https://img.shields.io/badge/GitHub-Profile%20Analytics-111827?style=for-the-badge&logo=github&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Public%20Repositories-Active-111827?style=for-the-badge&logo=gitbook&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-111827?style=for-the-badge&logo=opensourceinitiative&logoColor=60A5FA" />
 
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhasutradher07-commits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
-
-</div>
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aniruddhasutradher07-commits&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
+<table>
+<tr>
+<td align="center">
+<b>Engineering Focus</b>
+<br />
+AI/ML · Python · Full Stack · Healthcare Tech
+</td>
+<td align="center">
+<b>Development Style</b>
+<br />
+Clean Code · Product Thinking · Scalable Systems
+</td>
+<td align="center">
+<b>Current Track</b>
+<br />
+Software Engineering · AI Engineering · Open Source
+</td>
+</tr>
+</table>
 
 </div>
 ---

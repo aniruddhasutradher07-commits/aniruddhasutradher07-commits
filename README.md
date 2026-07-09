@@ -420,20 +420,14 @@ Contributed to education, community development, and child welfare initiatives t
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniruddhasutradher07-commits&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" />
+<img src="https://github-readme-stats.vercel.app/api?username=aniruddhasutradher07-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" />
 
 <br />
 <br />
 
-<img height="180em" src="https://streak-stats.demolab.com?user=aniruddhasutradher07-commits&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=94A3B8" />
-
-<br />
-<br />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhasutradher07-commits&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhasutradher07-commits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
 
 </div>
-
 ---
 
 ## GitHub Trophies
@@ -443,27 +437,6 @@ Contributed to education, community development, and child welfare initiatives t
 <img src="https://github-profile-trophy.vercel.app/?username=aniruddhasutradher07-commits&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
 
 </div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddhasutradher07-commits&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=60A5FA&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aniruddhasutradher07-commits/aniruddhasutradher07-commits/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
 ---
 
 ## Current Focus

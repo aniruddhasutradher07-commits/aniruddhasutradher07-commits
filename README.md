@@ -411,54 +411,10 @@ Contributed to education, community development, and child welfare initiatives t
 
 ## Certifications
 
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Track-111827?style=for-the-badge&logo=amazonaws&logoColor=A78BFA" />
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-111827?style=for-the-badge&logo=oracle&logoColor=F80000" />
-<img src="https://img.shields.io/badge/Oracle-Cloud%20Learning-111827?style=for-the-badge&logo=oracle&logoColor=A78BFA" />
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Online%20Certification-111827?style=for-the-badge&logo=bookstack&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/NPTEL-BioNode%20Data%20Analysis-111827?style=for-the-badge&logo=academia&logoColor=8B5CF6" />
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7" />
-<img src="https://img.shields.io/badge/Cisco-Digital%20Skills-111827?style=for-the-badge&logo=cisco&logoColor=A78BFA" />
-
-### Additional Certifications
-
 <img src="https://img.shields.io/badge/BioNode-Genomics%20%26%20Structural%20Biology-111827?style=for-the-badge&logo=dna&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/DIAGEO-Summer%20Training%20Project-111827?style=for-the-badge&logo=files&logoColor=8B5CF6" />
 <img src="https://img.shields.io/badge/Tech%20Mindsparc-Webinar%20Participation-111827?style=for-the-badge&logo=googleclassroom&logoColor=60A5FA" />
 
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/aniruddhasutradher07">
-  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/aniruddhasutradher07">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
-</a>
-<a href="https://www.hackerrank.com/aniruddhasutradher07">
-  <img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
-</a>
-<a href="https://www.codechef.com/users/aniruddhasutradher07">
-  <img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=A78BFA" />
-</a>
-
-</div>
-
----
 
 ## GitHub Analytics
 

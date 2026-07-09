@@ -308,23 +308,11 @@ open_to:
 
 ---
 
-## 📬 Connect
+### 💭 Dev Quote
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniruddhasutradher07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniruddhasutradhar-cutm)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniruddhasutradher07-commits)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-chatbot-4fcm.onrender.com)
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-<div align="center">
-
-*"Dealing with failure is easy: Work hard to improve."* — Alan Perlis
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:8B5CF6,100:6D28D9&height=120&section=footer"/>
-
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/aniruddhasutradher07-commits">aniruddhasutradher07-commits</a></i></p>

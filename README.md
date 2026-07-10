@@ -255,7 +255,9 @@ Supported education, community development, and child welfare initiatives.
 
 ![Tech Mindsparc](https://img.shields.io/badge/Tech_Mindsparc-Innovations_Webinar-4F46E5?style=for-the-badge)
 ![DIAGEO](https://img.shields.io/badge/DIAGEO_India-Summer_Training_Completion-8B5CF6?style=for-the-badge)
-
+![Codec Technologies](https://img.shields.io/badge/Codec_Technologies-Certificate_of_Internship-4F46E5?style=for-the-badge)
+![Codec Technologies](https://img.shields.io/badge/Codec_Technologies-Certificate_of_Completion-8B5CF6?style=for-the-badge)
+![Codec Technologies](https://img.shields.io/badge/Codec_Technologies-Letter_of_Recommendation-6366F1?style=for-the-badge)
 ---
 ### 📊 GitHub Stats
 

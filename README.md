@@ -258,6 +258,8 @@ Supported education, community development, and child welfare initiatives.
 ![Codec Technologies](https://img.shields.io/badge/Codec_Technologies-Certificate_of_Internship-4F46E5?style=for-the-badge)
 ![Codec Technologies](https://img.shields.io/badge/Codec_Technologies-Certificate_of_Completion-8B5CF6?style=for-the-badge)
 ![Codec Technologies](https://img.shields.io/badge/Codec_Technologies-Letter_of_Recommendation-6366F1?style=for-the-badge)
+![CodeAlpha](https://img.shields.io/badge/CodeAlpha-App_Development_Virtual_Internship-4F46E5?style=for-the-badge)
+![CodeAlpha](https://img.shields.io/badge/CodeAlpha-Letter_of_Recommendation-8B5CF6?style=for-the-badge)
 ---
 ### 📊 GitHub Stats
 

@@ -267,6 +267,12 @@ Supported education, community development, and child welfare initiatives.
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aniruddhasutradher07-commits&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aniruddhasutradher07-commits&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+</p>
+
 ## 📈 Contribution Activity
 
 <div align="center">

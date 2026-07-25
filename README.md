@@ -271,7 +271,7 @@ Supported education, community development, and child welfare initiatives.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddhasutradher07-commits&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddhasutradher07-commits&theme=minimal&hide_border=true&bg_color=ffffff&color=6D28D9&line=8B5CF6&point=6D28D9" width="100%"/>
 
 </div>
 

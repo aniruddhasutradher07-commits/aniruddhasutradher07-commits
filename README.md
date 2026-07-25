@@ -270,7 +270,7 @@ Supported education, community development, and child welfare initiatives.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniruddhasutradher07-commits&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=aniruddhasutradher07-commits&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
 
 ## 📈 Contribution Activity

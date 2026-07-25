@@ -281,7 +281,7 @@ Supported education, community development, and child welfare initiatives.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aniruddhasutradher07-commits/aniruddhasutradher07-commits/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/aniruddhasutradher07-commits/aniruddhasutradher07-commits/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 

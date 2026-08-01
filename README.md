@@ -13,7 +13,7 @@
 
 Second-year Biotechnology undergraduate passionate about applying AI &amp; data analytics to healthcare and biotech problems. I build hands-on projects across Python, Machine Learning, and web development.
 
-🌱 &nbsp;I'm currently learning **Flutter, Machine Learning, and full-stack web development**  
+🌱 &nbsp;I'm currently learning **Flutter, Machine Learning, and Become A GENAI Specialization**  
 👯 &nbsp;I'm looking to collaborate on **Healthcare + AI/ML projects and beginner-friendly Python/web dev projects**  
 🤔 &nbsp;I'm looking for help with **Open-source contributions and real-world ML projects**  
 💬 &nbsp;Ask me about **Python, Machine Learning, Flask, React.js**  

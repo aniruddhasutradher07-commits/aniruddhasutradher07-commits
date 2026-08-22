@@ -75,6 +75,25 @@ Second-year Biotechnology undergraduate passionate about applying AI &amp; data 
 ## 📌 Featured Projects
 
 <details>
+<summary><b>🩺 Disease Symptom Predictor — NLP Diagnosis Model</b></summary>
+<br>
+
+NLP-based Flask application that predicts a likely disease from natural-language symptom descriptions, trained and evaluated across multiple ML approaches.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python, Flask, scikit-learn, NLTK, TF-IDF |
+| Scale | 2,194 symptom descriptions across 24 disease classes (merged two datasets) |
+| Performance | 97.95% accuracy (TF-IDF + Logistic Regression) |
+| Security | N/A (educational demo, not medical advice) |
+| Impact | Compared Naive Bayes, Logistic Regression, and sentence-embeddings approaches; documented a negative embeddings result and used error analysis + data augmentation to fix a weak class (drug reaction F1: 71% → 97%) |
+| Repository | [aniruddhasutradher07-commits/disease-symptom-predictor](https://github.com/aniruddhasutradher07-commits/disease-symptom-predictor) |
+
+**🔗 Live Demo:** [disease-symptom-predictor.onrender.com](https://disease-symptom-predictor.onrender.com)
+
+</details>
+
+<details>
 <summary><b>🩺 Biodegradation Pathways Prediction</b></summary>
 <br>
 

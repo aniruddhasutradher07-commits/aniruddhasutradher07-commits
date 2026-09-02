@@ -279,31 +279,65 @@ Supported education, community development, and child welfare initiatives.
 ![CodeAlpha](https://img.shields.io/badge/CodeAlpha-App_Development_Virtual_Internship-4F46E5?style=for-the-badge)
 ![CodeAlpha](https://img.shields.io/badge/CodeAlpha-Letter_of_Recommendation-8B5CF6?style=for-the-badge)
 ---
-### 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aniruddhasutradher07-commits&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=aniruddhasutradher07-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
+  height="180"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhasutradher07-commits&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8"
+  height="180"
+  alt="Top Languages"
+/>
+
 </p>
+
+---
 
 ## 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddhasutradher07-commits&theme=minimal&hide_border=true&bg_color=ffffff&color=6D28D9&line=8B5CF6&point=6D28D9" width="100%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddhasutradher07-commits&theme=github-light&hide_border=true"
+  width="100%"
+  alt="GitHub Contribution Activity Graph"
+/>
 
-</div>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/aniruddhasutradher07-commits/aniruddhasutradher07-commits/output/github-contribution-grid-snake.svg" width="100%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aniruddhasutradher07-commits/aniruddhasutradher07-commits/output/github-contribution-grid-snake-dark.svg"
+  />
 
-</div>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/aniruddhasutradher07-commits/aniruddhasutradher07-commits/output/github-contribution-grid-snake.svg"
+  />
 
-> To activate the snake animation, set up the `platane/snk` GitHub Action in this repo — I can walk you through that next.
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/aniruddhasutradher07-commits/aniruddhasutradher07-commits/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
+
+</p>
 
 ---
 
